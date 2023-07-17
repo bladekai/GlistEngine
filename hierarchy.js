@@ -118,6 +118,7 @@ var hierarchy =
         [ "gBasePlugin", "classgBasePlugin.html", null ],
         [ "gBasePostProcess", "classgBasePostProcess.html", [
           [ "gColorAdjustments", "classgColorAdjustments.html", null ],
+          [ "gColorChannelMixer", "classgColorChannelMixer.html", null ],
           [ "gDynamicGrain", "classgDynamicGrain.html", null ],
           [ "gGrain", "classgGrain.html", null ],
           [ "gGrayscale", "classgGrayscale.html", null ],
@@ -127,7 +128,9 @@ var hierarchy =
             [ "gEdgeDetection", "classgEdgeDetection.html", null ],
             [ "gSharpen", "classgSharpen.html", null ]
           ] ],
-          [ "gSepiatone", "classgSepiatone.html", null ]
+          [ "gSepiatone", "classgSepiatone.html", null ],
+          [ "gSoftFocus", "classgSoftFocus.html", null ],
+          [ "gVignette", "classgVignette.html", null ]
         ] ],
         [ "gBoundingBox", "classgBoundingBox.html", null ],
         [ "gFbo", "classgFbo.html", null ],
@@ -145,6 +148,7 @@ var hierarchy =
             [ "gCross", "classgCross.html", null ],
             [ "gCylinder", "classgCylinder.html", null ],
             [ "gLine", "classgLine.html", null ],
+            [ "gMorphingMesh", "classgMorphingMesh.html", null ],
             [ "gPlane", "classgPlane.html", null ],
             [ "gRectangle", "classgRectangle.html", null ],
             [ "gRoundedRectangle", "classgRoundedRectangle.html", null ],
