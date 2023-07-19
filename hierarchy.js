@@ -117,11 +117,14 @@ var hierarchy =
         ] ],
         [ "gBasePlugin", "classgBasePlugin.html", null ],
         [ "gBasePostProcess", "classgBasePostProcess.html", [
+          [ "gChromaticAberration", "classgChromaticAberration.html", null ],
           [ "gColorAdjustments", "classgColorAdjustments.html", null ],
           [ "gColorChannelMixer", "classgColorChannelMixer.html", null ],
+          [ "gColorCurves", "classgColorCurves.html", null ],
           [ "gDynamicGrain", "classgDynamicGrain.html", null ],
           [ "gGrain", "classgGrain.html", null ],
           [ "gGrayscale", "classgGrayscale.html", null ],
+          [ "gHighContrast", "classgHighContrast.html", null ],
           [ "gInversion", "classgInversion.html", null ],
           [ "gKernelEffect", "classgKernelEffect.html", [
             [ "gBlur", "classgBlur.html", null ],
@@ -129,8 +132,11 @@ var hierarchy =
             [ "gSharpen", "classgSharpen.html", null ]
           ] ],
           [ "gSepiatone", "classgSepiatone.html", null ],
+          [ "gShadowsMidtonesHighlights", "classgShadowsMidtonesHighlights.html", null ],
           [ "gSoftFocus", "classgSoftFocus.html", null ],
-          [ "gVignette", "classgVignette.html", null ]
+          [ "gTiltShift", "classgTiltShift.html", null ],
+          [ "gVignette", "classgVignette.html", null ],
+          [ "gWhiteBalance", "classgWhiteBalance.html", null ]
         ] ],
         [ "gBoundingBox", "classgBoundingBox.html", null ],
         [ "gFbo", "classgFbo.html", null ],
